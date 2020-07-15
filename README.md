@@ -1,2 +1,2 @@
 # Book Analysis
- Analysing Lewis Carroll and Mark Twain books. 
+ Frequency and sentminet analysis of Lewis Carroll and Mark Twain books. 
